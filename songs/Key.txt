@@ -1,0 +1,6 @@
+1.4.0	3
+Monoblaster	46426
+0,1,2
+t:70,gs3+f5>,f4+fs5>,cs4+gs5>,as3+as5,gs5,f5>,fs3+cs4+f4+fs5,cs5-,ds3+f5>,as4+as5>,f4+gs5>,cs4+as5,c6:1.052/,ds3+as3+cs4+as5>,gs5>,cs5-,c3:0.942+b5>,fs4+as5>,cs4+fs5>,fs3+ds5,gs5,fs5>,C3:0.942+ds3+fs3+f5,cs5-,cs3+f5>,gs3+as5>,f4+gs5>,cs4+as5,c6:1.052/
+cs3+gs3+f4+as5>,gs5>,cs5-,fs3+c6:1.326>,f4>,cs4+c6:1.052>,as3$,gs5>,fs3+as5>,cs4>,as3+cs5>,f4_>,fs3+c6:1.406>,as3+c6:1.575<,f4+c6:1.052>,cs4_>,fs3+fs5+c6:1.052>,cs4+gs5>,as3+cs5>,f4_>,fs3+c6:1.326>,f4>,cs4+c6:1.052>,as3$,gs5>
+fs3+fs5+as5>,cs4>,as3+cs5>,f4-,fs3+c6:1.406-$
