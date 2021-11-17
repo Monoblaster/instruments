@@ -1,0 +1,54 @@
+Characters:
+Normal Notes:
+(Note)(# or S if sharp)(Octave C3-C6)(: for time warp with time warp value after) and then a comma to move onto the next note
+
+Extended Charters
+t:BPM changes the BPM
+; 1/4 beat rest
+/ 1/2 beat rest
+$ 1 beat rest
+- 2 beat rest
+_ 4 beat rest
+> 1/2 note length
+? Random Note
+% Repeat (Goes to the begining of the song)
++ to add notes to a chord MAX 4 by defualt
+Note: any number of characters can be added to a note notes are by defualt quater notes
+Rests: these are added onto a note to increase it's "length" by the rest value
+
+
+Expanded Notes:
+C2  = C3:0.497
+C#2 = C3:0.527
+D2  = C3:0.560
+D#2 = C3:0.592
+E2  = C3:0.628
+F2  = C3:0.666
+F#2 = C3:0.704
+G2  = C3:0.746
+G#2 = C3:0.792
+A2  = C3:0.839
+A#2 = C3:0.888
+B2  = C3:0.942
+
+C#6 = C6:1.052
+D6  = C6:1.114
+D#6 = C6:1.180
+E6  = C6:1.253
+F6  = C6:1.326
+F#6 = C6:1.406
+G6  = C6:1.490
+G#6 = C6:1.575
+A6  = C6:1.668
+A#6 = C6:1
+B6  = C6:1.875
+C7  = C6:1.988
+
+File Format:
+File Name: Song Name
+Version	3
+Name	BLID
+Phrase0,Phrease1,...
+Phrases, limmit 255 characters per phrase 50 phrases per song
+
+
