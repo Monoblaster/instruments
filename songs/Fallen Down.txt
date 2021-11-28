@@ -1,0 +1,13 @@
+1.4.0	3
+Monoblaster	46426
+0,1,0,2,3,4,5,6,7,8,9
+t:112,d4+fs5>,fs4+cs5>,a4+fs5>,fs4+cs5>,a4+fs5>,fs4+cs5>,d4+fs5>,fs4+cs5>,a4+fs5>,fs4+cs5>,a4+fs5>,fs4+cs5>,b3+b4>,ds4+a4>,fs4+cs5>,ds4>,fs4+a4>,ds4+b4>,b3+e5>,ds4+ds5>,fs4+e5>,ds4+fs5>,fs4+ds5>,ds4+b4>
+t:112,g3+fs5>,b3+b4>,d4+fs5>,b3+b4>,d4+fs5>,b3+b4>,g3+fs5>,as3+as4>,d4+fs5>,as3+as4>,d4+g5>,as3>,d4+fs5>,fs4+d5>,a4+fs5>,fs4+d5>,a4+fs5>,fs4+fs5>,cs4+e5>,e4>,a4+d5>,e4>,a4+cs5>,e4>
+t:112,g3+fs5>,b3+b4>,d4+fs5>,b3+b4>,d4+fs5>,b3+b4>,g3+fs5>,as3+as4>,d4+fs5>,as3+as4>,d4+g5>,as3>,d4+fs5>,fs4+d5>,a4+fs5>,fs4+d5>,a4+fs5>,fs4+fs5>,cs4+e5>,e4>,a4+d5>,e4>,cs3+cs4+a4+cs5>,e4>
+t:112,c6:0.561+c5:0.561+fs5>,fs4+cs5>,a4+fs5>,c4:0.561+fs4+cs5>,a4+fs5>,fs4+cs5>,c3:0.749+a4+fs5>>>,c3:0.794>>>,c6:0.210>>,fs4+cs5>,a4+fs5>,fs4+cs5>,c5:0.530+a4+fs5>,fs4+cs5>
+t:112,c6:0.236+b3+b4>,ds4+a4>,fs4+cs5>,ds4>,fs4+a4>,ds4+b4>,c3:0.794+e5>>>,c3:0.749>>>,c5:0.354>>,ds4+ds5>,fs4+e5>,ds4+fs5>,fs4+ds5>,ds4+b4>,c5:0.375+g3+fs5>,b3+b4>,d4+fs5>,c3+b4>>>,cs3>>>,c5:0.561>>,d4+fs5>,b3+b4>
+t:112,c5:0.561+g3+fs5>,as3+as4>,d4+fs5>,c3+as4>>>,c3:0.944>>>,c5:0.445>>,d4+g5>,as3>,c6:0.210+c6:0.420+fs5>,fs4+d5>,a4+fs5>,fs4+d5>,a4+fs5>,fs4+fs5>
+t:112,c4:0.841+c5:0.841+e5>,e4>,c4:0.749+c5:0.749+a4+d5>,e4>,c5:0.530+c6:0.530+a4+cs5>,e4>,c6:0.281+c6:0.561+fs5>,fs4+cs5>,a4+fs5>,c5:0.281+fs4+cs5>,a4+fs5>,fs4+cs5>
+t:112,c3:0.749+a4+fs5>>>,c3:0.794>>>,c6:0.210>>,fs4+cs5>,a4+fs5>,fs4+cs5>,c6:0.265+a4+fs5>,fs4+cs5>,c6:0.236+b3+b4>,ds4+a4>,fs4+cs5>,ds4>,fs4+a4>,ds4+b4>,c3:0.794>>>,c3:0.749>>>,c5:0.354>>,ds4+ds5>,fs4+e5>,ds4+fs5>,ds4+ds5>,ds4+b4>
+t:112,c5:0.375+g3+fs5>,b3+b4>,d4+fs5>,c3+b4>>>,cs3>>>,c5:0.561>>,d4+fs5>,b3+b4>,c5:0.281+g3+fs5>,as3+as4>,d4+fs5>,c3+as3>>>,c3:0.944>>>,c5:0.445>>,d4+g5>,b3>,c5:0.281+c6:0.281+fs5>,fs4+d5>,a4+fs5>,fs4+d5>,a4+fs5>,fs4+fs5>
+t:112,d4+cs5>,fs4>,a4+fs5>,fs4>,a4+cs5>,fs4>%

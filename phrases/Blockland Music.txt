@@ -8,7 +8,7 @@ t:BPM changes the BPM
 / 1/2 beat rest
 $ 1 beat rest
 - 2 beat rest
-_ 4 beat rest
+_ 3 beat rest
 > 1/2 note length
 ? Random Note
 % Repeat (Goes to the begining of the song)
@@ -18,31 +18,75 @@ Rests: these are added onto a note to increase it's "length" by the rest value
 
 
 Expanded Notes:
-C2  = C3:0.497
-C#2 = C3:0.527
-D2  = C3:0.560
-D#2 = C3:0.592
-E2  = C3:0.628
-F2  = C3:0.666
-F#2 = C3:0.704
-G2  = C3:0.746
-G#2 = C3:0.792
-A2  = C3:0.839
-A#2 = C3:0.888
-B2  = C3:0.942
+c7	c6:2
+b6	c6:1.888
+as6	c6:1.782
+a6	c6:1.682
+gs6	c6:1.587
+g6	c6:1.498
+fs6	c6:1.414
+f6	c6:1.335
+e6	c6:1.260
+ds6	c6:1.189
+d6	c6:1.122
+cs6	c6:1.059
 
-C#6 = C6:1.052
-D6  = C6:1.114
-D#6 = C6:1.180
-E6  = C6:1.253
-F6  = C6:1.326
-F#6 = C6:1.406
-G6  = C6:1.490
-G#6 = C6:1.575
-A6  = C6:1.668
-A#6 = C6:1
-B6  = C6:1.875
-C7  = C6:1.988
+b2	c3:0.944
+as2	c3:0.891
+a2	c3:0.841
+gs2	c3:0.794
+g2	c3:0.749
+fs2	c3:0.707
+f2	c3:0.667
+e2	c3:0.630
+ds2	c3:0.595
+d2	c3:0.561
+cs2	c3:0.530
+c2	c3:0.500
+b1	c3:0.472
+as1	c3:0.445
+a1	c3:0.420
+gs1	c3:0.397
+g1	c3:0.375
+fs1	c3:0.354
+f1	c3:0.334
+e1	c3:0.315
+ds1	c3:0.297
+d1	c3:0.281
+cs1	c3:0.265
+c1	c3:0.250
+b0	c3:0.236
+as0	c3:0.223
+a0	c3:0.210
+
+Stretched Notes:
+bx-1	cx:0.944
+asx-1	cx:0.891
+ax-1	cx:0.841
+gsx-1	cx:0.794
+gx-1	cx:0.749
+fsx-1	cx:0.707
+fx-1	cx:0.667
+ex-1	cx:0.630
+dsx-1	cx:0.595
+dx-1	cx:0.561
+csx-1	cx:0.530
+cx-1	cx:0.500
+bx-2	cx:0.472
+asx-2	cx:0.445
+ax-2	cx:0.420
+gsx-2	cx:0.397
+gx-2	cx:0.375
+fsx-2	cx:0.354
+fx-2	cx:0.334
+ex-2	cx:0.315
+dsx-2	cx:0.297
+dx-3	cx:0.281
+csx-3	cx:0.265
+cx-3	cx:0.250
+bx-4	cx:0.236
+asx-4	cx:0.223
+ax-4	cx:0.210
 
 File Format:
 File Name: Song Name
