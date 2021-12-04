@@ -81,12 +81,12 @@ fsx-2	cx:0.354
 fx-2	cx:0.334
 ex-2	cx:0.315
 dsx-2	cx:0.297
-dx-3	cx:0.281
-csx-3	cx:0.265
-cx-3	cx:0.250
-bx-4	cx:0.236
-asx-4	cx:0.223
-ax-4	cx:0.210
+dx-2	cx:0.281
+csx-2	cx:0.265
+cx-2	cx:0.250
+bx-3	cx:0.236
+asx-3	cx:0.223
+ax-3	cx:0.210
 
 File Format:
 File Name: Song Name
