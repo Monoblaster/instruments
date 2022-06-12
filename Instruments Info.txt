@@ -16,22 +16,20 @@ _ 3 beat rest
 Note: any number of characters can be added to a note notes are by defualt quater notes
 Rests: these are added onto a note to increase it's "length" by the rest value
 
-
-Expanded Notes:
-c7	c6:2
-b6	c6:1.888
-as6	c6:1.782
-a6	c6:1.682
-gs6	c6:1.587
-g6	c6:1.498
-fs6	c6:1.414
-f6	c6:1.335
-e6	c6:1.260
-ds6	c6:1.189
-d6	c6:1.122
-cs6	c6:1.059
-
-Exteneded Negative:
+Exteneded:
+cx+1    cx:2
+bx+0    cx:1.888
+asx+0   cx:1.782
+ax+0    cx:1.682
+gsx+0   cx:1.587
+gx+0    cx:1.498
+fsx+0   cx:1.414
+fx+0	cx:1.335
+ex+0    cx:1.260
+dsx+0	cx:1.189
+dx+0  	cx:1.122
+csx+0	cx:1.059
+cx+0    cx:1.000
 bx-1	cx:0.944
 asx-1	cx:0.891
 ax-1	cx:0.841
