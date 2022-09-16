@@ -10,7 +10,7 @@ For example "c4+e4+g4+c5". A c-major chord.
 
 Rests:
 All chords by default are equal to a quater note or 1 beat.
-Even if a chord has no notes or not rests it will be 1 beat.
+Even if a chord has no notes or no rests it will be 1 beat.
 For example c4. A chord equal with a rest to 1 beat.
 Another example $. Another chord with a rest equal to 1 beat.
 
